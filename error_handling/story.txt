@@ -1,0 +1,1 @@
+Hi this file is opened through rust file handler.
